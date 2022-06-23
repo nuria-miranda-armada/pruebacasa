@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 public class Main {
-
+		//haciendo pruebas este comentario va desde github
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<String> nombres = Arrays.asList("Maria", "Pepa","Marcos","Laura","Pepe","Jose","Isabel");
